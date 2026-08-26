@@ -1,0 +1,2 @@
+rootProject.name = "JumpNotesApp"
+include ':app'
